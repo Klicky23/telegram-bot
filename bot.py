@@ -24,10 +24,10 @@ def welcome(message):
         welcome_message += "❗ Subcrubing to the Group you Going to get New Sexual Fetishes\n\n"
         welcome_message += " or Feed an existing ones... \n\n"
         welcome_message += "\n\n"
-        welcome_message += "🔴1. 200+ minutes of Short (<1 min) Sissy, Cuckold, Goon Captions\n\n"
-        welcome_message += "⚫2. 25 long (15>min) Sissy Stories, Trainings, PMVs \n\n"
+        welcome_message += "🔴1. 200+ minutes of Short (<1 min) Captions\n\n"
+        welcome_message += "⚫2. Long (7+>min) Sissy Stories, Trainings, PMVs \n\n"
         welcome_message += "🔴3. Chats on Topics\n\n"
-        welcome_message += "⚫4. 30 Categorized Tabs = Comfort Viewing\n\n"
+        welcome_message += "⚫4. Categorized Tabs = Comfort Viewing\n\n"
         welcome_message += "🔴5. Constant Updates\n\n"
         welcome_message += "\n\n"
         welcome_message += "❓ ACCESS IS PAID - YOU CAN GET IT BY FOLLOWING THE INSTRUCTIONS BELOW\n\n"
@@ -63,7 +63,7 @@ def welcome(message):
 # Обработка ввода кода
 @bot.message_handler(func=lambda message: message.chat.id in user_state and user_state[message.chat.id] == "waiting_for_code")
 def check_code(message):
-    if message.text == "5646":
+    if message.text == "7000":
         user = message.from_user
         full_name = user.first_name
         if user.last_name:
