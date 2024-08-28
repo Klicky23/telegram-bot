@@ -1,0 +1,768 @@
+
+Timestamp: 2023-10-21 02:46:56.140931, User ID: 6440251423, Name: Tacitus, Username: None
+Timestamp: 2023-10-21 05:04:49.969455, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-10-21 11:45:04.209443, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2023-10-21 12:21:30.406422, User ID: 6742731848, Name: Tm, Username: None
+Timestamp: 2023-10-22 02:40:11.223779, User ID: 6578265412, Name: Tujn, Username: None
+Timestamp: 2023-10-22 02:40:11.244253, User ID: 6578265412, Name: Tujn, Username: None
+Timestamp: 2023-10-22 05:22:20.186045, User ID: 942003207, Name: No_shape, Username: None
+Timestamp: 2023-10-22 05:53:32.323615, User ID: 6445244234, Name: Ted, Username: None
+Timestamp: 2023-10-22 07:29:37.041774, User ID: 6351186489, Name: Jim, Username: None
+Timestamp: 2023-10-22 10:03:24.064552, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2023-10-22 10:05:48.525829, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:48.571355, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:49.021107, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:49.065791, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:49.510511, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:49.569293, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:49.985598, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:50.089393, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:50.443352, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:50.569107, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 10:05:50.909476, User ID: 5219170173, Name: Gman, Username: GmanLives2
+Timestamp: 2023-10-22 11:28:46.539508, User ID: 6801035302, Name: ???, Username: None
+Timestamp: 2023-10-22 14:24:52.752423, User ID: 6530797493, Name: Tzu, Username: None
+Timestamp: 2023-10-22 16:56:38.045222, User ID: 6957280035, Name: Trey, Username: None
+Timestamp: 2023-10-23 01:03:40.767360, User ID: 2036165787, Name: Youri, Username: None
+Timestamp: 2023-10-23 07:19:48.217040, User ID: 5934201757, Name: Frank, Username: None
+Timestamp: 2023-10-23 07:44:22.025058, User ID: 5514522223, Name: Mitchell, Username: None
+Timestamp: 2023-10-23 13:13:35.705861, User ID: 5370563647, Name: mikey, Username: None
+Timestamp: 2023-10-24 03:11:25.755077, User ID: 5792305913, Name: Maik, Username: None
+Timestamp: 2023-10-24 04:05:50.721934, User ID: 6762051536, Name: Stephen, Username: None
+Timestamp: 2023-10-24 10:25:34.660620, User ID: 6755151196, Name: Jackaon, Username: None
+Timestamp: 2023-10-25 02:12:30.546003, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-10-25 05:58:57.701252, User ID: 5324572896, Name: Aaron, Username: None
+Timestamp: 2023-10-25 09:43:17.631860, User ID: 6801035302, Name: ???, Username: None
+Timestamp: 2023-10-25 12:58:39.197323, User ID: 1563969434, Name: R, Username: Deftfy
+Timestamp: 2023-10-25 13:04:31.180056, User ID: 6045062631, Name: E, Username: azegyetlen
+Timestamp: 2023-10-25 16:39:44.248649, User ID: 6618203218, Name: Daniel, Username: None
+Timestamp: 2023-10-25 16:39:44.300985, User ID: 6618203218, Name: Daniel, Username: None
+Timestamp: 2023-10-25 23:34:48.670700, User ID: 6618203218, Name: Daniel, Username: None
+Timestamp: 2023-10-26 02:51:05.433069, User ID: 5121701618, Name: Jay, Username: Projectzues37
+Timestamp: 2023-10-26 12:12:39.959966, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2023-10-26 12:12:40.009128, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2023-10-26 12:12:43.369910, User ID: 1563969434, Name: R, Username: Deftfy
+Timestamp: 2023-10-26 12:12:43.399039, User ID: 1563969434, Name: R, Username: Deftfy
+Timestamp: 2023-10-26 13:56:37.985492, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-10-26 14:19:24.390749, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-10-26 14:32:58.065127, User ID: 2028737522, Name: L, Username: lortlort
+Timestamp: 2023-10-26 15:28:01.480494, User ID: 6753915964, Name: Jon D, Username: None
+Timestamp: 2023-10-26 15:49:07.559403, User ID: 6618203218, Name: Daniel, Username: None
+Timestamp: 2023-10-27 04:57:39.648807, User ID: 6526035804, Name: Kai Walker, Username: None
+Timestamp: 2023-10-27 09:15:33.660530, User ID: 6485357537, Name: Jimmy James, Username: None
+Timestamp: 2023-10-27 09:57:46.760624, User ID: 6924157804, Name: Billy Black, Username: None
+Timestamp: 2023-10-27 12:44:59.471647, User ID: 5422402726, Name: Pradeep Naga, Username: None
+Timestamp: 2023-10-28 03:27:28.881948, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-10-28 03:29:01.748314, User ID: 6667414332, Name: Tony, Username: None
+Timestamp: 2023-10-28 04:32:36.787433, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-10-28 07:45:27.262892, User ID: 1646270782, Name: Jim Bean, Username: None
+Timestamp: 2023-10-28 08:34:21.856415, User ID: 6550453166, Name: Emmanuel, Username: None
+Timestamp: 2023-10-28 12:44:13.874877, User ID: 6087941174, Name: Trill Whiteboy, Username: None
+Timestamp: 2023-10-28 12:45:28.251964, User ID: 6766561365, Name: Ugh, Username: None
+Timestamp: 2023-10-29 03:38:12.732124, User ID: 1020516317, Name: K ., Username: kmahri
+Timestamp: 2023-10-30 21:43:07.228152, User ID: 5522439188, Name: pero peric, Username: None
+Timestamp: 2023-10-31 09:41:33.545920, User ID: 6401323558, Name: A S, Username: None
+Timestamp: 2023-10-31 10:20:36.800774, User ID: 1563969434, Name: R PJ, Username: Deftfy
+Timestamp: 2023-10-31 22:50:38.513091, User ID: 6968834103, Name: Austin Mace, Username: None
+Timestamp: 2023-11-01 04:37:10.990666, User ID: 6877708765, Name: Alex May, Username: None
+Timestamp: 2023-11-01 08:26:25.601863, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-01 19:25:27.326290, User ID: 6821679382, Name: James Smith, Username: None
+Timestamp: 2023-11-02 00:02:01.970855, User ID: 6959753930, Name: Billy F, Username: None
+Timestamp: 2023-11-02 07:59:39.610673, User ID: 6801329586, Name: Greg C, Username: None
+Timestamp: 2023-11-02 08:44:48.988683, User ID: 5252528653, Name: Moose, Username: None
+Timestamp: 2023-11-02 08:52:34.603304, User ID: 6499057038, Name: Jonn, Username: None
+Timestamp: 2023-11-02 09:44:04.731481, User ID: 979174735, Name: hassal Otlpg, Username: hassal20
+Timestamp: 2023-11-02 10:24:21.447280, User ID: 979174735, Name: Tot Points, Username: hassal20
+Timestamp: 2023-11-02 18:37:10.933384, User ID: 6966552756, Name: Tired, Username: hemacrim
+Timestamp: 2023-11-02 18:44:05.245874, User ID: 6883896707, Name: John Smit, Username: None
+Timestamp: 2023-11-02 23:01:58.631913, User ID: 6873608816, Name: Jonn, Username: None
+Timestamp: 2023-11-03 00:01:17.135874, User ID: 1563969434, Name: R PJ, Username: Deftfy
+Timestamp: 2023-11-03 06:37:42.884237, User ID: 6873608816, Name: Jonn, Username: None
+Timestamp: 2023-11-03 15:34:29.794129, User ID: 6322292565, Name: Luke Lundstrum, Username: None
+Timestamp: 2023-11-03 16:06:52.981900, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-03 16:26:52.421677, User ID: 1893595070, Name: jet black, Username: jetblack666
+Timestamp: 2023-11-03 18:27:51.890308, User ID: 6283427563, Name: Iggy, Username: None
+Timestamp: 2023-11-03 21:14:14.141924, User ID: 5910200330, Name: Tahar, Username: None
+Timestamp: 2023-11-04 01:09:45.817652, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-11-04 01:12:56.106540, User ID: 6829954746, Name: Jonn, Username: None
+Timestamp: 2023-11-04 01:18:39.434284, User ID: 5760134093, Name: Lucas, Username: None
+Timestamp: 2023-11-04 14:12:56.011092, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-11-05 12:55:13.421912, User ID: 6304127972, Name: C G, Username: None
+Timestamp: 2023-11-05 13:23:39.273844, User ID: 6045062631, Name: E N, Username: azegyetlen
+Timestamp: 2023-11-05 17:11:01.607185, User ID: 6618203218, Name: Daniel, Username: None
+Timestamp: 2023-11-05 18:23:02.686624, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-11-06 05:52:13.396416, User ID: 6005397921, Name: E S, Username: None
+Timestamp: 2023-11-06 12:11:01.920197, User ID: 5833138689, Name: Hunter Lucas, Username: None
+Timestamp: 2023-11-06 12:31:35.309657, User ID: 6160209037, Name: Blake Droeske, Username: None
+Timestamp: 2023-11-06 14:20:05.708069, User ID: 1137361095, Name: Thingfake, Username: Thingfake
+Timestamp: 2023-11-06 22:58:21.302949, User ID: 6266754484, Name: Benjamin Danielsen, Username: None
+Timestamp: 2023-11-07 10:57:03.415248, User ID: 6021083690, Name: Dingo, Username: None
+Timestamp: 2023-11-08 01:08:47.503477, User ID: 6867778225, Name: Joseph Yahweh, Username: None
+Timestamp: 2023-11-08 10:01:40.477014, User ID: 6045062631, Name: E N, Username: azegyetlen
+Timestamp: 2023-11-08 11:03:29.834340, User ID: 6910364822, Name: Tom Grant, Username: None
+Timestamp: 2023-11-08 15:02:48.100407, User ID: 431743985, Name: Е, Username: Tomoaki_Nagao
+Timestamp: 2023-11-08 15:58:47.334961, User ID: 6746815177, Name: M, Username: None
+Timestamp: 2023-11-09 11:04:51.205785, User ID: 6289917145, Name: That Dude, Username: None
+Timestamp: 2023-11-09 11:31:35.144634, User ID: 1230524693, Name: S, Username: Jewish_gurl
+Timestamp: 2023-11-09 19:05:22.310429, User ID: 6349212458, Name: j g, Username: None
+Timestamp: 2023-11-09 21:11:59.426084, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-10 04:18:01.174501, User ID: 5005077957, Name: JC, Username: None
+Timestamp: 2023-11-10 07:29:05.854234, User ID: 6807336201, Name: Jack S, Username: None
+Timestamp: 2023-11-10 08:29:16.839666, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-11-11 01:33:20.149157, User ID: 5127945329, Name: Gabby, Username: None
+Timestamp: 2023-11-11 06:12:22.952024, User ID: 1563969434, Name: R PJ, Username: Deftfy
+Timestamp: 2023-11-11 11:41:46.913819, User ID: 6841100489, Name: John Doe, Username: None
+Timestamp: 2023-11-12 06:35:46.335554, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-13 05:58:20.998078, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-13 07:11:56.143136, User ID: 1877454517, Name: shvne, Username: None
+Timestamp: 2023-11-13 12:15:20.259955, User ID: 6153928390, Name: Ethan, Username: None
+Timestamp: 2023-11-13 12:15:20.692036, User ID: 6153928390, Name: Ethan, Username: None
+Timestamp: 2023-11-13 22:04:07.866155, User ID: 6236989637, Name: Sam Fraser, Username: None
+Timestamp: 2023-11-13 23:35:37.758034, User ID: 6751394674, Name: Mike50, Username: None
+Timestamp: 2023-11-14 00:19:17.193287, User ID: 5760134093, Name: Lucas, Username: None
+Timestamp: 2023-11-14 01:14:38.399678, User ID: 6546838703, Name: Alex Mahoney, Username: None
+Timestamp: 2023-11-14 01:34:23.620961, User ID: 678544136, Name: Baptiste, Username: ys80o
+Timestamp: 2023-11-14 04:06:36.194527, User ID: 6741725341, Name: Alicia, Username: None
+Timestamp: 2023-11-14 04:07:45.147714, User ID: 5715833493, Name: P Meir, Username: livingthedream10
+Timestamp: 2023-11-14 04:55:18.880656, User ID: 6607338569, Name: Gia Gio, Username: None
+Timestamp: 2023-11-14 05:16:12.462075, User ID: 6068227443, Name: Likkie Stick, Username: None
+Timestamp: 2023-11-14 06:32:52.667474, User ID: 6433627055, Name: Rocco, Username: None
+Timestamp: 2023-11-14 11:02:32.431942, User ID: 6756397880, Name: C X, Username: None
+Timestamp: 2023-11-14 12:08:59.690499, User ID: 6336032976, Name: Lilith Suxx, Username: None
+Timestamp: 2023-11-14 12:34:44.127324, User ID: 6037521986, Name: Sleepyfox, Username: HalfAsleepFox
+Timestamp: 2023-11-14 14:43:40.852499, User ID: 1938551133, Name: Mindaugas, Username: None
+Timestamp: 2023-11-14 18:30:57.897827, User ID: 396887245, Name: Majin, Username: majin911
+Timestamp: 2023-11-14 18:42:11.620929, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-11-15 10:44:03.679507, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-15 13:36:25.953346, User ID: 1020516317, Name: K ., Username: kmahri
+Timestamp: 2023-11-15 17:08:11.149369, User ID: 5729383982, Name: X B, Username: None
+Timestamp: 2023-11-15 17:16:36.612741, User ID: 5404464142, Name: kiki, Username: duhfuhq
+Timestamp: 2023-11-15 17:18:24.772730, User ID: 6236989637, Name: Sam Fraser, Username: None
+Timestamp: 2023-11-16 04:17:26.496432, User ID: 5915046615, Name: David, Username: Aquarocka
+Timestamp: 2023-11-16 04:51:05.005861, User ID: 5862567850, Name: Max P, Username: Msxr7
+Timestamp: 2023-11-16 10:56:27.119131, User ID: 5422106838, Name: Armando Plata, Username: None
+Timestamp: 2023-11-16 12:35:21.207524, User ID: 6647433336, Name: John Smit, Username: None
+Timestamp: 2023-11-17 01:15:24.774783, User ID: 6664443285, Name: J R, Username: None
+Timestamp: 2023-11-17 07:02:29.663481, User ID: 1646270782, Name: Jim Bean, Username: None
+Timestamp: 2023-11-17 07:39:48.578541, User ID: 6507440160, Name: Bella, Username: None
+Timestamp: 2023-11-17 07:53:37.382332, User ID: 6759937975, Name: Jade Konstant, Username: None
+Timestamp: 2023-11-17 10:44:01.634010, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-17 11:14:46.156026, User ID: 1106042754, Name: J W, Username: None
+Timestamp: 2023-11-17 16:41:56.653867, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-17 18:42:25.332336, User ID: 6766393372, Name: Delta, Username: JamesLouiseDelta
+Timestamp: 2023-11-17 20:47:45.860222, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-18 01:05:11.843101, User ID: 5760134093, Name: Lucas, Username: None
+Timestamp: 2023-11-18 04:51:48.265778, User ID: 6839255065, Name: Martin lundi, Username: None
+Timestamp: 2023-11-18 05:32:05.532150, User ID: 6931515252, Name: James J, Username: None
+Timestamp: 2023-11-18 12:36:45.755011, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-11-18 23:44:11.051993, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-19 01:15:34.904539, User ID: 6455603516, Name: Parker Chambers, Username: None
+Timestamp: 2023-11-19 01:43:17.232379, User ID: 1881229543, Name: Dran, Username: None
+Timestamp: 2023-11-19 04:28:55.872357, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-19 09:30:51.392960, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-19 16:41:13.323746, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-19 17:17:51.519025, User ID: 6785168139, Name: Paul W, Username: None
+Timestamp: 2023-11-19 19:52:58.814783, User ID: 5778987456, Name: B, Username: KingBIII
+Timestamp: 2023-11-19 22:19:36.516569, User ID: 6895882750, Name: Jason Derulo, Username: None
+Timestamp: 2023-11-19 22:47:36.770897, User ID: 5752163746, Name: Ellie, Username: Elliestone64
+Timestamp: 2023-11-20 04:36:10.354421, User ID: 6725842736, Name: Thomas, Username: None
+Timestamp: 2023-11-20 07:54:27.630432, User ID: 6713263258, Name: Crispy Crunch, Username: BiggyCrunch
+Timestamp: 2023-11-20 13:49:29.876279, User ID: 620459894, Name: Sheikh Nasser, Username: nasserbasharahil
+Timestamp: 2023-11-20 15:17:26.729045, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-11-21 00:45:42.224878, User ID: 6967552675, Name: Jordan Perry, Username: None
+Timestamp: 2023-11-21 08:18:44.026343, User ID: 6625992715, Name: Mac Doole, Username: None
+Timestamp: 2023-11-21 10:55:43.900447, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-21 14:56:14.326348, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-22 00:54:10.221720, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-22 12:23:21.844294, User ID: 340601207, Name: Otso, Username: Kolmasdosentti
+Timestamp: 2023-11-22 16:05:40.716810, User ID: 6143355560, Name: Glenn Frank, Username: None
+Timestamp: 2023-11-22 17:43:13.884262, User ID: 1924376332, Name: T, Username: NikkiBa
+Timestamp: 2023-11-22 18:57:43.340274, User ID: 1195035532, Name: panoramix, Username: None
+Timestamp: 2023-11-22 18:58:00.595588, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-22 20:20:59.860264, User ID: 1889835597, Name: J, Username: None
+Timestamp: 2023-11-23 00:38:24.496439, User ID: 6005397921, Name: E S, Username: None
+Timestamp: 2023-11-23 15:10:33.081642, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-24 12:59:39.740425, User ID: 6292195191, Name: Shayne Ledin, Username: None
+Timestamp: 2023-11-24 15:47:45.342766, User ID: 6153292839, Name: Cody Harrison, Username: None
+Timestamp: 2023-11-25 05:18:18.525819, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-25 05:19:50.367616, User ID: 6494830123, Name: Nathan Townley, Username: None
+Timestamp: 2023-11-25 19:12:03.816303, User ID: 6558925810, Name: Bella, Username: None
+Timestamp: 2023-11-25 23:17:09.670483, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-26 03:17:46.274521, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-11-26 03:29:38.278729, User ID: 6127462478, Name: G M, Username: GStache1
+Timestamp: 2023-11-26 12:23:05.938586, User ID: 1523532700, Name: Rafael Quiroz, Username: None
+Timestamp: 2023-11-26 15:55:19.558545, User ID: 6940870934, Name: Green, Username: None
+Timestamp: 2023-11-26 16:23:22.230322, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-27 08:11:23.197334, User ID: 6514135053, Name: B R, Username: None
+Timestamp: 2023-11-27 09:00:51.200324, User ID: 721625365, Name: Felix, Username: AfFelix
+Timestamp: 2023-11-27 14:36:31.765055, User ID: 6608157420, Name: Dylan, Username: None
+Timestamp: 2023-11-27 15:01:06.153041, User ID: 6057759373, Name: Max, Username: max89091
+Timestamp: 2023-11-28 01:44:33.916485, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-28 03:25:09.108157, User ID: 6862397322, Name: Eb Moe, Username: None
+Timestamp: 2023-11-28 05:39:21.458557, User ID: 6885630008, Name: Nope Nope, Username: None
+Timestamp: 2023-11-28 06:15:52.180513, User ID: 701106292, Name: Namia TheSerpentGod, Username: Toucansaviour
+Timestamp: 2023-11-28 16:05:24.979397, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-28 23:43:25.096919, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-11-29 03:31:44.898162, User ID: 5997548815, Name: Bee Midnight, Username: None
+Timestamp: 2023-11-29 10:14:23.171276, User ID: 6047316462, Name: Baloney That hears, Username: None
+Timestamp: 2023-11-29 19:25:59.677959, User ID: 6989792445, Name: Ryan, Username: None
+Timestamp: 2023-11-29 20:51:17.299070, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-29 22:15:49.903511, User ID: 6088416048, Name: John Smit, Username: None
+Timestamp: 2023-11-30 03:11:24.098884, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-11-30 17:31:22.669029, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-11-30 22:39:58.666451, User ID: 1020516317, Name: K ., Username: kmahri
+Timestamp: 2023-11-30 23:20:24.776040, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-11-30 23:20:51.994382, User ID: 5929825754, Name: Jason, Username: None
+Timestamp: 2023-12-01 03:47:58.198738, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-01 04:38:54.477861, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2023-12-01 06:12:20.142949, User ID: 1020516317, Name: K ., Username: kmahri
+Timestamp: 2023-12-01 08:22:08.867726, User ID: 5929825754, Name: Jason, Username: None
+Timestamp: 2023-12-01 10:56:13.629714, User ID: 2123493772, Name: Michael, Username: None
+Timestamp: 2023-12-01 11:30:13.891235, User ID: 2032502019, Name: Dan Mtz, Username: None
+Timestamp: 2023-12-01 18:07:10.121684, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-01 23:52:12.195864, User ID: 6034106829, Name: Garrett Clark, Username: None
+Timestamp: 2023-12-02 02:10:00.365909, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2023-12-02 02:13:40.379006, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-02 07:45:09.441404, User ID: 6540481780, Name: N Ha, Username: None
+Timestamp: 2023-12-02 15:55:17.737526, User ID: 6933987992, Name: Dominic Ruiz, Username: None
+Timestamp: 2023-12-02 16:05:43.211402, User ID: 6005397921, Name: E S, Username: None
+Timestamp: 2023-12-03 01:40:00.284467, User ID: 5861930681, Name: Joseph Moreno, Username: None
+Timestamp: 2023-12-03 09:28:38.444851, User ID: 6706815099, Name: Jack W, Username: jackw575
+Timestamp: 2023-12-03 09:34:29.899874, User ID: 6445317150, Name: Robert Reeves, Username: None
+Timestamp: 2023-12-03 10:52:39.403469, User ID: 6748190195, Name: Jack, Username: None
+Timestamp: 2023-12-03 15:57:12.915316, User ID: 774690691, Name: Moustafa, Username: None
+Timestamp: 2023-12-03 22:29:50.890872, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-04 00:34:00.651923, User ID: 5928580323, Name: Baba Aller Babas Hh, Username: None
+Timestamp: 2023-12-04 00:37:02.033422, User ID: 6538487928, Name: Gooned Eightinch, Username: None
+Timestamp: 2023-12-04 04:27:27.069204, User ID: 6775442328, Name: Luke, Username: None
+Timestamp: 2023-12-04 10:58:41.277060, User ID: 6794788398, Name: !!!!!, Username: None
+Timestamp: 2023-12-04 11:41:28.797910, User ID: 6261587052, Name: Travis L, Username: None
+Timestamp: 2023-12-04 20:59:56.778238, User ID: 6332987142, Name: Jay Sals, Username: None
+Timestamp: 2023-12-05 00:41:54.030337, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-05 04:38:38.367518, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2023-12-05 17:15:55.989073, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-05 18:04:40.698754, User ID: 5901397257, Name: Sam, Username: None
+Timestamp: 2023-12-05 22:48:00.788391, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-05 23:25:57.712304, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-06 02:37:38.176243, User ID: 6931579965, Name: Doug, Username: None
+Timestamp: 2023-12-06 19:55:28.550942, User ID: 791872005, Name: Ahmad te, Username: hamudafino
+Timestamp: 2023-12-06 23:11:13.237404, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-07 07:44:00.683567, User ID: 5861930681, Name: Joseph Moreno, Username: None
+Timestamp: 2023-12-07 10:15:07.962215, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-07 17:26:44.817695, User ID: 5861930681, Name: Joseph Moreno, Username: None
+Timestamp: 2023-12-08 00:47:58.486612, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-08 08:38:35.690260, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-08 18:13:46.243103, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-09 05:47:32.356749, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-09 07:08:02.084251, User ID: 1114699689, Name: Krum Ganev, Username: KrumGanev
+Timestamp: 2023-12-09 17:50:59.534380, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-10 03:11:26.325486, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-10 20:56:16.301838, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2023-12-11 02:08:31.277341, User ID: 5620386732, Name: Nick Fedchock, Username: None
+Timestamp: 2023-12-11 02:32:00.927001, User ID: 6700697393, Name: Gooned Jay, Username: None
+Timestamp: 2023-12-11 02:49:20.541852, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2023-12-11 11:13:02.610558, User ID: 6114841843, Name: Sol Sun, Username: None
+Timestamp: 2023-12-11 11:51:10.009299, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-11 13:20:50.167325, User ID: 709337030, Name: Jeff Richardson, Username: toolubly2k
+Timestamp: 2023-12-11 16:50:28.703114, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2023-12-11 18:24:51.381525, User ID: 1858567189, Name: Nikolaj O, Username: None
+Timestamp: 2023-12-11 18:35:24.627750, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-12 00:57:31.116718, User ID: 6774607403, Name: Doug G, Username: doug371
+Timestamp: 2023-12-12 03:34:28.181564, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-12 03:56:05.045850, User ID: 5729383982, Name: X B, Username: None
+Timestamp: 2023-12-12 04:48:00.957689, User ID: 368048836, Name: Wiktor, Username: None
+Timestamp: 2023-12-12 10:24:49.949682, User ID: 6966552756, Name: Tired, Username: hemacrim
+Timestamp: 2023-12-12 11:17:38.039734, User ID: 6427659375, Name: Ev G, Username: HVille92
+Timestamp: 2023-12-12 23:21:26.605840, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2023-12-13 01:45:56.071166, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-13 07:10:02.863789, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-13 07:48:00.659509, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-13 13:24:05.125789, User ID: 5816614434, Name: I, Username: None
+Timestamp: 2023-12-14 02:48:13.774965, User ID: 6700697393, Name: NoOne NoWhere, Username: None
+Timestamp: 2023-12-14 10:11:09.828434, User ID: 5797108988, Name: Chuckk, Username: None
+Timestamp: 2023-12-14 13:03:53.387506, User ID: 5816614434, Name: I, Username: None
+Timestamp: 2023-12-14 13:18:34.599347, User ID: 5308828175, Name: Kevin Castro, Username: None
+Timestamp: 2023-12-14 20:13:54.484399, User ID: 6099770245, Name: Sienna, Username: None
+Timestamp: 2023-12-15 08:10:00.176757, User ID: 5962902569, Name: N377, Username: Niels377
+Timestamp: 2023-12-15 15:34:40.513748, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-16 11:07:14.645610, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-16 23:43:23.482238, User ID: 5138165722, Name: Rhett, Username: None
+Timestamp: 2023-12-17 11:26:52.919790, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-17 11:33:24.892642, User ID: 5846303725, Name: Julio, Username: None
+Timestamp: 2023-12-17 20:11:01.442654, User ID: 945575799, Name: Flavio, Username: Flavio225
+Timestamp: 2023-12-17 21:13:35.909986, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2023-12-18 05:52:53.518251, User ID: 6518043987, Name: Patrik Kiss, Username: None
+Timestamp: 2023-12-18 09:59:27.469975, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-18 10:19:00.090919, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-18 14:45:26.184845, User ID: 6025125512, Name: Markus, Username: None
+Timestamp: 2023-12-18 17:55:32.430062, User ID: 6834611822, Name: Caleb, Username: None
+Timestamp: 2023-12-18 23:26:07.156133, User ID: 5121804655, Name: Chris, Username: None
+Timestamp: 2023-12-18 23:37:41.193533, User ID: 6722360453, Name: Koral Shadow, Username: None
+Timestamp: 2023-12-19 08:59:33.814315, User ID: 6001714293, Name: M L, Username: hobermallo
+Timestamp: 2023-12-19 09:53:41.575264, User ID: 5816614434, Name: I, Username: None
+Timestamp: 2023-12-20 03:10:29.845818, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2023-12-20 12:12:41.807791, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-20 20:44:47.431830, User ID: 6839230765, Name: hhf cchhjh, Username: None
+Timestamp: 2023-12-20 20:54:05.396319, User ID: 6965189685, Name: Oreo, Username: None
+Timestamp: 2023-12-21 13:40:30.854907, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-12-21 21:25:23.897487, User ID: 6017712860, Name: Marco, Username: Grooot5
+Timestamp: 2023-12-21 21:31:16.848187, User ID: 6929697929, Name: John Smit, Username: None
+Timestamp: 2023-12-22 02:25:58.103478, User ID: 709337030, Name: Jeff Richardson, Username: toolubly2k
+Timestamp: 2023-12-22 04:44:08.951172, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2023-12-22 05:22:37.342468, User ID: 5989043961, Name: J A, Username: DT21269
+Timestamp: 2023-12-22 10:18:14.831761, User ID: 6718005418, Name: G G, Username: None
+Timestamp: 2023-12-22 14:36:40.552391, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-22 17:20:30.147844, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-23 02:26:17.324165, User ID: 1241715653, Name: Kanker Doffo, Username: SwsNerdVanDeBlock
+Timestamp: 2023-12-23 04:05:14.414736, User ID: 6328605604, Name: NA, Username: None
+Timestamp: 2023-12-23 06:40:10.898525, User ID: 6654283633, Name: John Smit, Username: None
+Timestamp: 2023-12-23 13:44:10.083772, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-23 16:01:57.936870, User ID: 6581195565, Name: Ќаст€, Username: None
+Timestamp: 2023-12-24 09:26:01.467139, User ID: 5595800398, Name: Nik Os, Username: Skorfish
+Timestamp: 2023-12-24 12:53:52.551916, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-24 14:08:42.126905, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-25 11:36:29.054329, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2023-12-26 01:11:27.241751, User ID: 6864343769, Name: John D, Username: None
+Timestamp: 2023-12-26 06:43:19.667715, User ID: 6026662831, Name: Alyssa, Username: None
+Timestamp: 2023-12-26 11:27:47.662161, User ID: 6958985057, Name: I, Username: None
+Timestamp: 2023-12-26 16:50:32.444002, User ID: 6025988848, Name: K H, Username: None
+Timestamp: 2023-12-26 19:45:36.131851, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-12-26 19:55:14.469161, User ID: 6305038367, Name: Becky Jones, Username: None
+Timestamp: 2023-12-26 19:59:41.111624, User ID: 5491076910, Name: N.36, Username: northside_36
+Timestamp: 2023-12-26 20:09:32.673090, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-27 02:25:09.816647, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2023-12-27 02:30:58.960648, User ID: 6939902767, Name: I, Username: None
+Timestamp: 2023-12-27 16:31:35.487878, User ID: 1369036250, Name: Jamie, Username: jamiecostley
+Timestamp: 2023-12-28 05:06:45.411251, User ID: 1170028113, Name: Bbsp, Username: None
+Timestamp: 2023-12-28 11:44:15.056908, User ID: 6440223223, Name: Z Z, Username: None
+Timestamp: 2023-12-28 17:08:32.900532, User ID: 1170028113, Name: Bbsp, Username: None
+Timestamp: 2023-12-29 06:12:55.963377, User ID: 233346159, Name: Rj, Username: None
+Timestamp: 2023-12-29 08:43:10.768833, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-29 11:10:16.534267, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2023-12-30 16:44:03.233787, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2023-12-30 23:44:28.411387, User ID: 6797215035, Name: Harold, Username: None
+Timestamp: 2023-12-31 00:14:30.440766, User ID: 656121119, Name: . ,, Username: None
+Timestamp: 2023-12-31 04:09:32.343508, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2023-12-31 11:09:44.729357, User ID: 709337030, Name: Jeff Richardson, Username: toolubly2k
+Timestamp: 2023-12-31 13:42:44.217036, User ID: 1563969434, Name: R PJ, Username: Deftfy
+Timestamp: 2023-12-31 18:51:32.188712, User ID: 6636255375, Name: Kleber, Username: None
+Timestamp: 2023-12-31 21:48:04.078012, User ID: 5149507991, Name: A A, Username: aygrant
+Timestamp: 2024-01-01 04:41:37.013039, User ID: 5501786425, Name: Jay Brooks, Username: None
+Timestamp: 2024-01-01 05:18:26.098169, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-01 10:10:27.932689, User ID: 569064250, Name: Antonio, Username: Antony14999
+Timestamp: 2024-01-01 18:51:51.309447, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2024-01-02 04:00:54.118107, User ID: 6497192602, Name: K ., Username: None
+Timestamp: 2024-01-02 05:02:48.269258, User ID: 5795731101, Name: Maddin, Username: None
+Timestamp: 2024-01-02 11:53:21.633106, User ID: 6867133544, Name: Maick, Username: None
+Timestamp: 2024-01-02 18:04:42.068780, User ID: 1893595070, Name: jet black, Username: jetblack666
+Timestamp: 2024-01-03 08:43:51.519979, User ID: 6746815177, Name: M, Username: None
+Timestamp: 2024-01-03 21:02:00.883258, User ID: 6563686723, Name: M, Username: Mtesli
+Timestamp: 2024-01-04 02:40:40.947207, User ID: 6191970712, Name: Young Chosen, Username: Sinceregotwirk
+Timestamp: 2024-01-04 08:02:35.725712, User ID: 6908343655, Name: A A, Username: None
+Timestamp: 2024-01-04 10:40:40.154294, User ID: 6572296089, Name: I, Username: None
+Timestamp: 2024-01-05 06:29:26.372971, User ID: 5710480253, Name: Joe, Username: RoboKitty33
+Timestamp: 2024-01-05 07:22:52.921790, User ID: 5929710968, Name: Kitty Nymphet, Username: None
+Timestamp: 2024-01-05 14:38:12.997148, User ID: 6846483231, Name: Sean, Username: None
+Timestamp: 2024-01-05 22:03:33.233010, User ID: 6810515882, Name: John Smit, Username: None
+Timestamp: 2024-01-06 11:46:32.635412, User ID: 1020516317, Name: K ., Username: kmahri
+Timestamp: 2024-01-06 14:48:39.524082, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-01-06 14:49:50.802619, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-01-06 14:57:17.918023, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2024-01-06 23:37:45.317748, User ID: 6523323702, Name: Scott, Username: None
+Timestamp: 2024-01-07 18:54:26.679427, User ID: 656121119, Name: . ,, Username: None
+Timestamp: 2024-01-08 07:37:08.523881, User ID: 6248492962, Name: Carlos, Username: None
+Timestamp: 2024-01-08 08:43:12.596518, User ID: 6667658252, Name: Adam Dude, Username: None
+Timestamp: 2024-01-09 01:07:15.709381, User ID: 340601207, Name: Otso, Username: Kolmasdosentti
+Timestamp: 2024-01-09 05:30:16.474538, User ID: 5826203906, Name: Red BGFT, Username: None
+Timestamp: 2024-01-09 15:22:22.682055, User ID: 5683946976, Name: Mirco, Username: None
+Timestamp: 2024-01-10 15:55:32.237326, User ID: 6411870165, Name: Rusty Shackelford, Username: None
+Timestamp: 2024-01-10 23:08:00.534040, User ID: 1167026744, Name: T S, Username: T0bi5
+Timestamp: 2024-01-11 04:52:39.621919, User ID: 6723326809, Name: Solaire Astora, Username: None
+Timestamp: 2024-01-11 11:36:03.951326, User ID: 6743406820, Name: Cric Cross, Username: None
+Timestamp: 2024-01-11 17:47:26.376692, User ID: 1149229572, Name: G, Username: None
+Timestamp: 2024-01-11 22:53:20.784474, User ID: 591015796, Name: Gollum der Dritte, Username: None
+Timestamp: 2024-01-13 07:42:55.954514, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-13 11:10:24.756722, User ID: 6483518321, Name: A H, Username: A000000H
+Timestamp: 2024-01-13 12:32:31.655941, User ID: 5524906613, Name: JC, Username: None
+Timestamp: 2024-01-13 19:42:40.527885, User ID: 6416701406, Name: A, Username: None
+Timestamp: 2024-01-14 03:55:32.187990, User ID: 5604194675, Name: john ponce, Username: Johnny5salive
+Timestamp: 2024-01-14 06:09:16.280684, User ID: 25404231, Name: Simon, Username: Simon_651
+Timestamp: 2024-01-14 19:16:19.132949, User ID: 6966552756, Name: Tired, Username: hemacrim
+Timestamp: 2024-01-14 20:43:25.845121, User ID: 6069966688, Name: Connor L, Username: None
+Timestamp: 2024-01-15 03:13:10.904694, User ID: 5419777055, Name: Tony LaPazza, Username: None
+Timestamp: 2024-01-16 03:02:53.690214, User ID: 5595800398, Name: Jello, Username: jellos00
+Timestamp: 2024-01-16 04:18:44.590400, User ID: 5810323590, Name: Yoonho, Username: None
+Timestamp: 2024-01-16 11:37:21.328957, User ID: 6277742894, Name: Tim Bates, Username: None
+Timestamp: 2024-01-16 11:58:43.945174, User ID: 6747745135, Name: Corey, Username: None
+Timestamp: 2024-01-17 06:17:24.002861, User ID: 5894495856, Name: Money Pipe, Username: None
+Timestamp: 2024-01-17 08:18:41.104470, User ID: 1833144528, Name: Secret rogelio, Username: None
+Timestamp: 2024-01-17 11:32:05.594577, User ID: 6384686930, Name: A A, Username: None
+Timestamp: 2024-01-18 04:51:48.430491, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2024-01-18 11:19:15.249504, User ID: 6974180563, Name: Jaret Aparo, Username: Stacula
+Timestamp: 2024-01-18 12:25:21.227463, User ID: 5751230359, Name: Tom Scott, Username: None
+Timestamp: 2024-01-18 13:27:28.739186, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2024-01-18 15:13:01.253458, User ID: 6822314517, Name: A A, Username: None
+Timestamp: 2024-01-19 01:26:17.196454, User ID: 5751230359, Name: Tom Scott, Username: None
+Timestamp: 2024-01-19 05:44:58.549449, User ID: 6099770245, Name: Sienna, Username: None
+Timestamp: 2024-01-19 18:27:04.848451, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-01-20 02:57:22.227249, User ID: 1079483921, Name: Zzzzz, Username: Zzzzz9346
+Timestamp: 2024-01-20 08:15:22.500080, User ID: 6567404025, Name: Brad Du Coing, Username: None
+Timestamp: 2024-01-20 16:05:52.124835, User ID: 5535086668, Name: Denno, Username: None
+Timestamp: 2024-01-21 01:44:55.114955, User ID: 5962902569, Name: Sara, Username: SaraTulsmuc
+Timestamp: 2024-01-21 01:45:23.064430, User ID: 5962902569, Name: Sara, Username: SaraTulsmuc
+Timestamp: 2024-01-21 01:52:01.235363, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-01-21 02:08:12.212008, User ID: 5962902569, Name: Sara, Username: SaraTulsmuc
+Timestamp: 2024-01-21 02:58:05.265716, User ID: 1980370646, Name: Adult King, Username: adultkng
+Timestamp: 2024-01-21 09:14:41.471832, User ID: 1723384343, Name: Ru Arana, Username: None
+Timestamp: 2024-01-21 11:50:43.912142, User ID: 5751230359, Name: Tom Scott, Username: None
+Timestamp: 2024-01-21 16:19:38.579240, User ID: 6897965841, Name: J S, Username: None
+Timestamp: 2024-01-22 20:33:23.154104, User ID: 5162943809, Name: TipSi Kellvon, Username: TIPSi_dmsopen
+Timestamp: 2024-01-22 22:13:47.305322, User ID: 6566723968, Name: Andrew Sundar, Username: None
+Timestamp: 2024-01-22 23:07:27.226458, User ID: 1609848921, Name: Nathan, Username: None
+Timestamp: 2024-01-23 05:02:07.703209, User ID: 6624742974, Name: A A, Username: None
+Timestamp: 2024-01-23 22:15:45.459111, User ID: 6401323558, Name: A S, Username: None
+Timestamp: 2024-01-23 23:16:56.248255, User ID: 6140331387, Name: jojo zhen, Username: johanshen
+Timestamp: 2024-01-24 13:58:53.375436, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-24 23:56:57.077821, User ID: 569064250, Name: Antonio, Username: Antony14999
+Timestamp: 2024-01-25 04:52:53.323458, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-26 14:04:49.665077, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-01-26 14:29:19.178222, User ID: 6633198329, Name: Young S, Username: None
+Timestamp: 2024-01-26 16:22:09.653956, User ID: 6099770245, Name: Sienna, Username: None
+Timestamp: 2024-01-26 17:50:38.583356, User ID: 6435392087, Name: Nathan Bullen, Username: None
+Timestamp: 2024-01-26 21:57:43.633291, User ID: 5983883174, Name: Bart, Username: None
+Timestamp: 2024-01-27 03:49:17.189015, User ID: 5030916734, Name: Chad Isbell, Username: None
+Timestamp: 2024-01-27 07:32:09.895538, User ID: 1241715653, Name: J P, Username: SwsNerdVanDeBlock
+Timestamp: 2024-01-27 10:34:38.944357, User ID: 6851685788, Name: Hank Large, Username: None
+Timestamp: 2024-01-27 13:33:10.824555, User ID: 6663504638, Name: Mutes Mutes, Username: None
+Timestamp: 2024-01-27 19:42:24.465422, User ID: 6606218268, Name: G G, Username: None
+Timestamp: 2024-01-27 23:45:10.648392, User ID: 6923164815, Name: A A, Username: None
+Timestamp: 2024-01-27 23:56:50.199302, User ID: 1131258236, Name: Draco, Username: bigdracoblem
+Timestamp: 2024-01-28 10:12:14.050357, User ID: 5735515484, Name: A A, Username: None
+Timestamp: 2024-01-28 17:45:11.432219, User ID: 6606218268, Name: G G, Username: None
+Timestamp: 2024-01-28 21:47:08.239581, User ID: 6445884882, Name: dusnsnd skaijshs, Username: Zonks1345
+Timestamp: 2024-01-29 04:31:24.597806, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2024-01-29 05:25:04.104818, User ID: 6515991355, Name: Supernovaslap, Username: None
+Timestamp: 2024-01-29 12:38:20.452454, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-29 20:58:08.768631, User ID: 5731019551, Name: Lucas Silva, Username: None
+Timestamp: 2024-01-29 23:59:56.659834, User ID: 5531677151, Name: Ч Ч, Username: None
+Timestamp: 2024-01-30 04:49:02.772696, User ID: 5574561431, Name: Mike, Username: mukluks123
+Timestamp: 2024-01-30 05:20:46.145046, User ID: 6705525631, Name: Jake, Username: None
+Timestamp: 2024-01-30 06:07:04.674574, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-01-30 07:15:21.683274, User ID: 6930839352, Name: Billy Bibthorton, Username: None
+Timestamp: 2024-01-30 08:55:25.233650, User ID: 6413883403, Name: Jim Felon, Username: None
+Timestamp: 2024-01-30 17:12:54.882252, User ID: 6967349564, Name: Dein Vater, Username: None
+Timestamp: 2024-01-30 20:05:51.846688, User ID: 6679591141, Name: Heartless, Username: None
+Timestamp: 2024-01-31 04:18:44.147125, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-01-31 05:14:19.272050, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-01-31 05:14:37.234494, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-01-31 05:18:08.344205, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-01-31 05:38:22.441664, User ID: 6566723968, Name: Andrew Sundar, Username: andrewsundar
+Timestamp: 2024-01-31 05:51:49.313683, User ID: 6666327380, Name: John Smith, Username: None
+Timestamp: 2024-01-31 06:53:54.983249, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 06:54:38.885484, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 06:55:52.608865, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 06:57:50.133672, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 07:02:27.638498, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 07:18:21.817818, User ID: 6566723968, Name: Andrew Sundar, Username: andrewsundar
+Timestamp: 2024-01-31 07:47:01.289126, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-01-31 09:34:34.435920, User ID: 6893002303, Name: Sophia, Username: None
+Timestamp: 2024-01-31 10:13:19.461724, User ID: 6976763260, Name: Walt Thomas, Username: None
+Timestamp: 2024-01-31 13:03:54.972309, User ID: 5015251232, Name: Spencer, Username: None
+Timestamp: 2024-01-31 13:54:24.250659, User ID: 428601390, Name: D, Username: Brut1985
+Timestamp: 2024-01-31 20:12:34.916134, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-01-31 21:40:53.429502, User ID: 6046665556, Name: Mike Jug, Username: None
+Timestamp: 2024-01-31 21:51:28.503309, User ID: 5794874349, Name: Robby Wesly, Username: None
+Timestamp: 2024-01-31 22:40:52.911898, User ID: 5904732283, Name: Timmy, Username: Cryo91
+Timestamp: 2024-01-31 22:43:21.995547, User ID: 6793448779, Name: A A, Username: None
+Timestamp: 2024-02-01 01:00:53.457389, User ID: 6973427421, Name: zonked !, Username: None
+Timestamp: 2024-02-01 01:01:02.319856, User ID: 6566723968, Name: Andrew Sundar, Username: andrewsundar
+Timestamp: 2024-02-01 02:19:53.121219, User ID: 6046665556, Name: Mike Wiley, Username: None
+Timestamp: 2024-02-01 08:29:51.804115, User ID: 5751230359, Name: Tom Scott, Username: None
+Timestamp: 2024-02-01 13:01:05.055624, User ID: 2078861884, Name: Elias, Username: None
+Timestamp: 2024-02-01 20:11:44.378753, User ID: 5742054388, Name: Tre, Username: None
+Timestamp: 2024-02-02 10:25:02.615187, User ID: 6873855963, Name: H87, Username: None
+Timestamp: 2024-02-02 13:53:27.602803, User ID: 6549822880, Name: Thiago, Username: None
+Timestamp: 2024-02-02 14:26:24.912885, User ID: 5305544401, Name: Accidental, Username: None
+Timestamp: 2024-02-02 15:40:38.241963, User ID: 6364124372, Name: J, Username: zero2356
+Timestamp: 2024-02-02 17:52:00.910262, User ID: 6529594927, Name: Crush Blue, Username: None
+Timestamp: 2024-02-03 00:07:27.337880, User ID: 2003879091, Name: Andre Lamont, Username: None
+Timestamp: 2024-02-03 05:23:01.302652, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-03 11:32:50.705019, User ID: 6635182923, Name: Vesijuoma, Username: None
+Timestamp: 2024-02-03 11:47:30.178584, User ID: 6591526468, Name: Joe, Username: None
+Timestamp: 2024-02-03 13:11:46.676575, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-03 14:15:29.176382, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-02-03 14:16:38.481450, User ID: 5403959170, Name: Jesse La Rosa, Username: None
+Timestamp: 2024-02-03 15:36:43.127838, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2024-02-03 21:36:24.048669, User ID: 6207588971, Name: Riley Hogarth, Username: None
+Timestamp: 2024-02-04 03:40:12.511826, User ID: 6294978095, Name: R, Username: uhhhusername
+Timestamp: 2024-02-04 07:04:05.838126, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-04 13:36:43.221322, User ID: 6634035870, Name: John, Username: None
+Timestamp: 2024-02-05 04:04:06.053998, User ID: 5417064870, Name: First Place, Username: UptownTomb
+Timestamp: 2024-02-05 20:42:18.392283, User ID: 428601390, Name: D, Username: Brut1985
+Timestamp: 2024-02-06 01:28:00.315129, User ID: 6697583614, Name: . ., Username: None
+Timestamp: 2024-02-06 09:15:19.526559, User ID: 5481406693, Name: Mike Cash, Username: None
+Timestamp: 2024-02-06 15:14:02.919141, User ID: 340601207, Name: Otso, Username: Kolmasdosentti
+Timestamp: 2024-02-06 19:56:10.038492, User ID: 5986054440, Name: Bingooo, Username: None
+Timestamp: 2024-02-06 22:59:11.025682, User ID: 6551999732, Name: John Shmit, Username: None
+Timestamp: 2024-02-07 06:15:06.745466, User ID: 6863564250, Name: Ivo, Username: None
+Timestamp: 2024-02-07 17:59:20.825187, User ID: 6122174933, Name: Saka, Username: None
+Timestamp: 2024-02-08 00:13:41.958457, User ID: 6627268813, Name: Jeremy Barcena, Username: None
+Timestamp: 2024-02-08 21:20:48.631665, User ID: 5416604813, Name: Liam, Username: Hughesy44
+Timestamp: 2024-02-08 23:21:49.034661, User ID: 6748601155, Name: John Smith, Username: None
+Timestamp: 2024-02-09 06:49:58.510400, User ID: 6036845434, Name: Tim W, Username: timW69
+Timestamp: 2024-02-09 10:07:34.239536, User ID: 5926929592, Name: Vinicius Soro, Username: None
+Timestamp: 2024-02-09 11:19:48.457560, User ID: 293434769, Name: Chase, Username: None
+Timestamp: 2024-02-09 11:50:04.349482, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-09 12:51:43.963496, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-02-10 01:44:11.148344, User ID: 5795731101, Name: Maddin, Username: None
+Timestamp: 2024-02-10 01:45:15.634631, User ID: 5795731101, Name: Maddin, Username: None
+Timestamp: 2024-02-10 03:20:50.791479, User ID: 5811604986, Name: Zak Taylor, Username: ZT2906
+Timestamp: 2024-02-10 04:00:51.384838, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-10 04:57:23.038552, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-10 06:43:54.205120, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-10 09:46:18.904175, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2024-02-10 10:01:02.598112, User ID: 6902977287, Name: A A, Username: None
+Timestamp: 2024-02-10 10:03:04.691525, User ID: 6215894590, Name: Isaiah Bakes, Username: None
+Timestamp: 2024-02-10 14:26:56.775369, User ID: 5967239961, Name: Hard body Bron, Username: jarl_luffy
+Timestamp: 2024-02-10 15:53:57.164065, User ID: 6744596868, Name: Bri, Username: None
+Timestamp: 2024-02-10 22:27:48.354379, User ID: 6969239773, Name: Natsumi Yuko, Username: None
+Timestamp: 2024-02-11 00:46:35.579782, User ID: 428601390, Name: D, Username: None
+Timestamp: 2024-02-11 01:06:17.157542, User ID: 2047298988, Name: Berns, Username: Bernedout
+Timestamp: 2024-02-11 01:51:50.986633, User ID: 5806199071, Name: Rob, Username: rcastle23
+Timestamp: 2024-02-11 10:42:39.742081, User ID: 6739610136, Name: John Kinny, Username: None
+Timestamp: 2024-02-11 19:05:08.462995, User ID: 2081373276, Name: Will, Username: surgemp
+Timestamp: 2024-02-11 19:55:37.411361, User ID: 6751918554, Name: Glumbo Baggins, Username: None
+Timestamp: 2024-02-11 21:19:12.512064, User ID: 1794481683, Name: Dakota Carter, Username: None
+Timestamp: 2024-02-11 23:58:58.260079, User ID: 6021970772, Name: Guy Jones, Username: None
+Timestamp: 2024-02-12 09:22:57.218253, User ID: 5017109961, Name: Farhan, Username: None
+Timestamp: 2024-02-12 10:24:26.384036, User ID: 5013728528, Name: Josh Juan, Username: None
+Timestamp: 2024-02-12 13:21:48.541284, User ID: 6644890631, Name: Nick S, Username: None
+Timestamp: 2024-02-12 13:53:53.860672, User ID: 6469416736, Name: A A, Username: None
+Timestamp: 2024-02-12 14:40:12.393717, User ID: 981057205, Name: Alex5555, Username: Alexbwc95
+Timestamp: 2024-02-13 04:43:56.153853, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-13 06:46:34.001762, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-13 15:55:13.780774, User ID: 5310391026, Name: M H, Username: None
+Timestamp: 2024-02-13 17:48:24.832360, User ID: 5728982994, Name: P, Username: None
+Timestamp: 2024-02-14 04:48:36.587383, User ID: 6760705971, Name: Elouan Daviaud, Username: None
+Timestamp: 2024-02-14 04:52:47.036229, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-14 18:45:27.093638, User ID: 683570045, Name: Saeed, Username: saeedaqa
+Timestamp: 2024-02-14 21:20:11.594168, User ID: 6875307993, Name: Shaquille Rivera, Username: None
+Timestamp: 2024-02-15 00:40:27.845381, User ID: 6875158033, Name: D Mart, Username: None
+Timestamp: 2024-02-15 08:59:25.412773, User ID: 6709941607, Name: Kylie Cloudy, Username: KylieCloud
+Timestamp: 2024-02-15 16:34:13.960279, User ID: 5728982994, Name: P, Username: None
+Timestamp: 2024-02-15 16:38:21.555025, User ID: 6155400403, Name: Jo Mann, Username: JoeMann828
+Timestamp: 2024-02-16 05:52:00.587224, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-16 10:18:07.527646, User ID: 5627182839, Name: Kaine Oath, Username: None
+Timestamp: 2024-02-16 18:25:34.410262, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2024-02-17 11:19:26.546026, User ID: 431044679, Name: bayshaffer, Username: bayshaffer
+Timestamp: 2024-02-17 20:20:27.626105, User ID: 5731019551, Name: Lucas Silva, Username: None
+Timestamp: 2024-02-17 22:48:37.558064, User ID: 6774149001, Name: J Angel, Username: None
+Timestamp: 2024-02-18 03:32:34.062323, User ID: 5538013885, Name: Dakota Freyser, Username: None
+Timestamp: 2024-02-18 07:11:38.481390, User ID: 6861597013, Name: Lewi Rambo, Username: lewirambo
+Timestamp: 2024-02-18 17:36:31.656903, User ID: 6463076358, Name: A A, Username: None
+Timestamp: 2024-02-19 06:19:51.789611, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-19 11:02:06.088310, User ID: 6801035302, Name: ???, Username: None
+Timestamp: 2024-02-20 03:23:17.284348, User ID: 5763869900, Name: Oscar, Username: None
+Timestamp: 2024-02-20 03:38:35.290206, User ID: 6246760386, Name: Ryan Dateno, Username: None
+Timestamp: 2024-02-20 09:46:28.979531, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-02-20 21:26:51.527995, User ID: 2067766124, Name: Hamad Baig, Username: wunter13
+Timestamp: 2024-02-20 23:08:22.444086, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-21 00:54:03.585500, User ID: 6810547151, Name: Bryce, Username: S1mp4ganyu
+Timestamp: 2024-02-21 05:31:02.387980, User ID: 1497131029, Name: Scott, Username: shcott
+Timestamp: 2024-02-22 04:10:39.636992, User ID: 1420651824, Name: J S, Username: None
+Timestamp: 2024-02-22 05:33:56.814417, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-22 19:17:13.636135, User ID: 5643726446, Name: Cary Acosta, Username: None
+Timestamp: 2024-02-22 23:02:16.265691, User ID: 5944083137, Name: Steve Ripkin, Username: None
+Timestamp: 2024-02-23 08:37:58.088397, User ID: 7041995965, Name: Ryan Flatley, Username: None
+Timestamp: 2024-02-23 10:10:28.037354, User ID: 7016917338, Name: A A, Username: None
+Timestamp: 2024-02-23 14:47:37.714284, User ID: 6332526329, Name: Jordan Colins, Username: None
+Timestamp: 2024-02-23 17:11:18.448021, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-02-23 17:56:50.250943, User ID: 5898713920, Name: mike, Username: None
+Timestamp: 2024-02-23 23:30:59.156067, User ID: 338193814, Name: Iain, Username: iainmarsh
+Timestamp: 2024-02-24 06:11:34.226958, User ID: 684886822, Name: Sharul, Username: Sharulhkm
+Timestamp: 2024-02-24 09:13:07.430727, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-02-24 12:34:15.551437, User ID: 6760705971, Name: Elouan Daviaud, Username: None
+Timestamp: 2024-02-25 02:59:10.619715, User ID: 7173912271, Name: A A, Username: None
+Timestamp: 2024-02-26 00:44:49.185538, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-26 00:50:16.856794, User ID: 6877749365, Name: Case, Username: None
+Timestamp: 2024-02-26 02:53:08.477954, User ID: 1149229572, Name: G, Username: None
+Timestamp: 2024-02-26 16:40:27.051426, User ID: 7166134414, Name: A A, Username: None
+Timestamp: 2024-02-26 21:06:51.744828, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-26 21:08:58.394355, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-26 21:18:49.914542, User ID: 645113426, Name: Michael Aasletten, Username: Snork_lax
+Timestamp: 2024-02-26 23:45:36.337921, User ID: 1605555687, Name: Alin BB, Username: None
+Timestamp: 2024-02-27 09:09:15.867873, User ID: 6064261758, Name: Charles Dkens, Username: None
+Timestamp: 2024-02-27 15:54:01.401144, User ID: 6010033050, Name: Asher, Username: ImNotQuinn
+Timestamp: 2024-02-27 17:12:06.247109, User ID: 5481406693, Name: Mike Cash, Username: None
+Timestamp: 2024-02-27 20:40:16.119823, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-02-27 21:32:39.448255, User ID: 1149229572, Name: G, Username: None
+Timestamp: 2024-02-28 00:54:35.482057, User ID: 1420651824, Name: J S, Username: None
+Timestamp: 2024-02-28 08:55:30.897542, User ID: 6441494126, Name: adam, Username: None
+Timestamp: 2024-02-28 09:45:30.664823, User ID: 6760705971, Name: Elouan Daviaud, Username: None
+Timestamp: 2024-02-28 10:18:09.348278, User ID: 6760705971, Name: Elouan Daviaud, Username: None
+Timestamp: 2024-02-28 18:22:34.228109, User ID: 6733003920, Name: Jared Flynn, Username: None
+Timestamp: 2024-02-28 18:32:03.547566, User ID: 6349181138, Name: ezeh, Username: None
+Timestamp: 2024-02-29 03:23:42.165868, User ID: 7125726805, Name: A A, Username: None
+Timestamp: 2024-02-29 09:33:54.611378, User ID: 7062367317, Name: Charles Steele, Username: None
+Timestamp: 2024-02-29 23:20:40.987940, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-02 19:24:33.104314, User ID: 5079295703, Name: Da Wink, Username: None
+Timestamp: 2024-03-03 06:23:30.732807, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-05 07:36:42.570654, User ID: 1664677061, Name: Thepurif1er, Username: Thepurif1er
+Timestamp: 2024-03-05 09:54:53.002778, User ID: 5442181534, Name: Mitch B, Username: Aussie2000
+Timestamp: 2024-03-05 19:39:58.175597, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-06 10:16:13.670175, User ID: 7055305955, Name: A A, Username: None
+Timestamp: 2024-03-06 21:30:38.418571, User ID: 233346159, Name: Rj, Username: None
+Timestamp: 2024-03-07 11:03:33.906837, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-07 14:24:10.260278, User ID: 6017712860, Name: Marco, Username: Grooot5
+Timestamp: 2024-03-07 16:33:49.740986, User ID: 5728982994, Name: P, Username: None
+Timestamp: 2024-03-08 10:49:12.242149, User ID: 6427963976, Name: A A, Username: None
+Timestamp: 2024-03-09 16:46:07.294405, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-09 17:23:14.964697, User ID: 5728982994, Name: P, Username: None
+Timestamp: 2024-03-10 01:09:35.322464, User ID: 6954725780, Name: Maya Lena, Username: None
+Timestamp: 2024-03-10 06:59:17.385303, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-10 09:19:45.960177, User ID: 733554382, Name: Dominik, Username: Rotomnik
+Timestamp: 2024-03-10 17:17:48.057821, User ID: 5728982994, Name: P, Username: None
+Timestamp: 2024-03-11 22:26:07.786455, User ID: 6999918052, Name: j, Username: itzaabop
+Timestamp: 2024-03-12 11:56:27.222690, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-12 13:18:57.853796, User ID: 1149229572, Name: G, Username: None
+Timestamp: 2024-03-12 14:05:45.557310, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-12 16:59:30.082428, User ID: 259449864, Name: Kowski, Username: Sankowski
+Timestamp: 2024-03-12 17:28:10.100848, User ID: 7164591073, Name: N A, Username: None
+Timestamp: 2024-03-13 01:14:32.405018, User ID: 6627619775, Name: A A, Username: None
+Timestamp: 2024-03-13 12:54:25.673480, User ID: 6297736193, Name: Sebas C, Username: None
+Timestamp: 2024-03-14 09:00:40.371225, User ID: 7025127398, Name: Tim Lol, Username: None
+Timestamp: 2024-03-14 11:50:37.789492, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-15 23:36:55.203649, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-16 01:00:38.850864, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-16 06:29:57.749649, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-16 17:04:33.003595, User ID: 7052344398, Name: A A, Username: None
+Timestamp: 2024-03-16 17:08:39.159483, User ID: 1997177681, Name: P B, Username: usernamepb
+Timestamp: 2024-03-17 00:33:47.287965, User ID: 2067766124, Name: Hamad Baig, Username: wunter13
+Timestamp: 2024-03-17 07:36:40.191127, User ID: 6005397921, Name: E S, Username: None
+Timestamp: 2024-03-17 17:54:50.845628, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-17 21:37:01.772738, User ID: 6977568350, Name: Ryan Flatley, Username: None
+Timestamp: 2024-03-17 21:58:00.777328, User ID: 6826259199, Name: A A, Username: None
+Timestamp: 2024-03-18 13:46:45.398589, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-18 20:13:54.921199, User ID: 709337030, Name: Jeff Richardson, Username: toolubly2k
+Timestamp: 2024-03-19 02:35:51.053405, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-19 06:40:59.109179, User ID: 5197308168, Name: Chuckles, Username: None
+Timestamp: 2024-03-19 21:17:06.074572, User ID: 7035996457, Name: A A, Username: None
+Timestamp: 2024-03-20 01:33:08.944296, User ID: 5787236049, Name: Serkan, Username: spapazz
+Timestamp: 2024-03-20 07:54:49.160962, User ID: 6760705971, Name: Z Freak, Username: None
+Timestamp: 2024-03-20 20:58:55.566798, User ID: 6799373521, Name: A A, Username: None
+Timestamp: 2024-03-21 11:08:52.465808, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-21 11:09:24.321088, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-21 20:01:58.169227, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-21 20:13:08.974124, User ID: 1858567189, Name: N O, Username: None
+Timestamp: 2024-03-21 20:45:02.862868, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-03-21 21:36:58.785217, User ID: 6401323558, Name: A S, Username: None
+Timestamp: 2024-03-21 21:59:53.697206, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-21 22:22:24.397349, User ID: 7123612852, Name: A A, Username: None
+Timestamp: 2024-03-22 03:01:05.735028, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-22 05:47:12.247428, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-22 05:47:23.853234, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-22 06:56:39.557015, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-22 12:34:53.815511, User ID: 6297736193, Name: Sebas C, Username: None
+Timestamp: 2024-03-22 18:18:18.854485, User ID: 6336032976, Name: Lilith Suxx, Username: None
+Timestamp: 2024-03-22 22:22:18.333036, User ID: 2067766124, Name: Hamad Baig, Username: wunter13
+Timestamp: 2024-03-23 02:39:02.092988, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-03-23 05:34:22.811518, User ID: 6864077315, Name: A A, Username: None
+Timestamp: 2024-03-23 06:12:39.460171, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-03-23 12:28:53.259544, User ID: 5965378705, Name: Alena, Username: ShiftyNomad
+Timestamp: 2024-03-23 18:24:15.922867, User ID: 7179653821, Name: John Smit, Username: None
+Timestamp: 2024-03-23 18:54:47.895134, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-23 22:01:48.349824, User ID: 5861930681, Name: Joseph Moreno, Username: None
+Timestamp: 2024-03-23 23:58:57.736008, User ID: 428601390, Name: D, Username: None
+Timestamp: 2024-03-24 07:51:43.704535, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-03-24 11:39:52.236303, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-03-24 13:53:48.520849, User ID: 6529594927, Name: Crush Blue, Username: None
+Timestamp: 2024-03-24 22:55:59.426589, User ID: 5721200026, Name: Nate DeForest, Username: indaforest256
+Timestamp: 2024-03-25 06:11:52.712949, User ID: 6438050583, Name: Ren, Username: renfend
+Timestamp: 2024-03-25 07:35:55.176435, User ID: 5644618801, Name: H ., Username: None
+Timestamp: 2024-03-25 19:40:18.237626, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-03-25 23:39:27.817466, User ID: 6821112510, Name: A A, Username: None
+Timestamp: 2024-03-26 05:59:38.829852, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-03-26 12:38:03.815292, User ID: 5627182839, Name: Kaine Oath, Username: Wowissda
+Timestamp: 2024-03-26 12:44:57.257656, User ID: 6045062631, Name: E N, Username: azegyetlen
+Timestamp: 2024-03-26 19:36:47.632905, User ID: 7151144083, Name: Johnny Smitty, Username: None
+Timestamp: 2024-03-26 20:14:57.046718, User ID: 5778987456, Name: B, Username: KingBIII
+Timestamp: 2024-03-26 20:18:48.803084, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-27 02:10:13.178091, User ID: 6908138512, Name: Omar, Username: TH787hi
+Timestamp: 2024-03-27 03:56:08.882775, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-03-27 09:18:08.522199, User ID: 6966552756, Name: Tired, Username: hemacrim
+Timestamp: 2024-03-27 19:52:02.510828, User ID: 7156054059, Name: A A, Username: None
+Timestamp: 2024-03-27 23:11:31.877768, User ID: 6025125512, Name: M, Username: None
+Timestamp: 2024-03-28 00:49:37.406574, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-03-28 20:37:06.203960, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-03-29 15:50:30.597959, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-29 20:56:54.535876, User ID: 7070112689, Name: K A, Username: None
+Timestamp: 2024-03-29 23:57:13.731297, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-30 05:45:27.849214, User ID: 6610811479, Name: Goon Addict, Username: None
+Timestamp: 2024-03-30 07:29:43.465827, User ID: 368048836, Name: Wiktor, Username: None
+Timestamp: 2024-03-30 07:45:59.467066, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-30 19:54:22.689156, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-03-31 08:43:37.748067, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-03-31 15:38:54.819316, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-03-31 17:42:23.090240, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-01 07:58:17.441169, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-01 23:32:22.001155, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-04-02 00:10:01.255751, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-03 06:06:32.063732, User ID: 1420651824, Name: J S, Username: None
+Timestamp: 2024-04-03 21:00:16.719646, User ID: 7138967891, Name: A A, Username: None
+Timestamp: 2024-04-04 20:59:27.154270, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-04-05 09:39:44.609819, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-05 19:17:53.606116, User ID: 7169215836, Name: A A, Username: None
+Timestamp: 2024-04-06 09:01:40.299859, User ID: 1108708972, Name: JoseBph, Username: JoseBph
+Timestamp: 2024-04-06 16:50:38.687858, User ID: 1152717785, Name: Alexandre, Username: None
+Timestamp: 2024-04-07 09:09:09.771311, User ID: 5419777055, Name: Tony LaPazza, Username: None
+Timestamp: 2024-04-07 21:52:10.912862, User ID: 6871394357, Name: mike, Username: None
+Timestamp: 2024-04-08 09:14:04.964740, User ID: 6297736193, Name: Sebas C, Username: None
+Timestamp: 2024-04-08 10:09:59.837511, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-08 18:26:53.540121, User ID: 5778987456, Name: B, Username: KingBIII
+Timestamp: 2024-04-08 18:28:58.175784, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-04-08 19:10:59.287304, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-04-08 20:01:09.785687, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-08 20:04:03.046183, User ID: 897656724, Name: Ekaterina, Username: unknown_artist_oyo
+Timestamp: 2024-04-09 00:05:50.543182, User ID: 1420651824, Name: J S, Username: None
+Timestamp: 2024-04-09 06:37:31.134112, User ID: 5787236049, Name: Serkan, Username: spapazz
+Timestamp: 2024-04-09 12:32:45.089679, User ID: 6160209037, Name: B D, Username: Bledro
+Timestamp: 2024-04-10 00:45:24.676752, User ID: 5524906613, Name: JC, Username: sissyjc
+Timestamp: 2024-04-10 04:28:22.344136, User ID: 6844234775, Name: A A, Username: None
+Timestamp: 2024-04-10 15:25:00.166880, User ID: 7013072375, Name: Matt B, Username: mattndti
+Timestamp: 2024-04-10 21:31:37.608279, User ID: 6529594927, Name: Crush Blue, Username: None
+Timestamp: 2024-04-11 13:04:32.908396, User ID: 6801035302, Name: ???, Username: None
+Timestamp: 2024-04-11 16:15:16.492000, User ID: 6993125523, Name: A A, Username: None
+Timestamp: 2024-04-12 02:42:19.198937, User ID: 6045062631, Name: E N, Username: azegyetlen
+Timestamp: 2024-04-12 06:51:38.815371, User ID: 6576728412, Name: John Doe, Username: None
+Timestamp: 2024-04-12 20:08:19.584513, User ID: 5925464432, Name: A A, Username: None
+Timestamp: 2024-04-13 07:30:59.219421, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-04-13 13:51:23.024692, User ID: 5837236485, Name: J B, Username: bekind985
+Timestamp: 2024-04-14 03:58:44.968008, User ID: 428601390, Name: D, Username: coffee265
+Timestamp: 2024-04-14 06:17:08.796745, User ID: 791872005, Name: Ahmad te, Username: santanacuero
+Timestamp: 2024-04-14 22:55:13.007563, User ID: 6140331387, Name: J, Username: johanshen
+Timestamp: 2024-04-16 10:39:08.115095, User ID: 6401323558, Name: A S, Username: None
+Timestamp: 2024-04-16 11:38:40.725157, User ID: 1991188936, Name: Shiny Charizard, Username: None
+Timestamp: 2024-04-20 03:34:54.059008, User ID: 7149770383, Name: A A, Username: None
+Timestamp: 2024-04-20 17:44:11.767388, User ID: 7151449376, Name: Luap Alele, Username: None
+Timestamp: 2024-04-21 23:18:36.770434, User ID: 1913215265, Name: Greg Jennings, Username: AskAbMe
+Timestamp: 2024-04-22 08:44:23.706259, User ID: 5139341370, Name: Suffran Payne, Username: SuffranPayn3
+Timestamp: 2024-04-22 11:57:12.048259, User ID: 1149229572, Name: G, Username: None
+Timestamp: 2024-04-23 03:47:31.605500, User ID: 6713263258, Name: Crispy Crunch, Username: BiggyCrunch
+Timestamp: 2024-04-24 04:17:16.409070, User ID: 6297736193, Name: Sebas C, Username: None
+Timestamp: 2024-04-26 08:17:28.855841, User ID: 1841252906, Name: Gabriel Cruz, Username: G_cruz358
+Timestamp: 2024-04-26 08:51:04.398597, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-04-26 21:33:05.424735, User ID: 428601390, Name: D, Username: tm8907
+Timestamp: 2024-04-27 10:04:23.367381, User ID: 6069966688, Name: Connor L, Username: None
+Timestamp: 2024-04-27 11:01:48.314694, User ID: 6330894110, Name: A A, Username: None
+Timestamp: 2024-04-28 04:22:08.194713, User ID: 6005397921, Name: E S, Username: None
+Timestamp: 2024-04-29 04:27:50.825454, User ID: 6330894110, Name: A A, Username: None
+Timestamp: 2024-04-29 16:24:43.858155, User ID: 1858567189, Name: N O, Username: NiBBo420
+Timestamp: 2024-04-30 04:35:01.997746, User ID: 890381612, Name: MIKISTO, Username: MIKAIL_mcmi
+Timestamp: 2024-04-30 04:41:42.596967, User ID: 6891341249, Name: Andrew C, Username: None
+Timestamp: 2024-04-30 16:01:24.311905, User ID: 5666152528, Name: Ro, Username: RoRoSpi
+Timestamp: 2024-04-30 20:38:22.347833, User ID: 6046665556, Name: Mike W, Username: None
+Timestamp: 2024-05-30 08:01:13.703281, User ID: 1201046176, Name: N.W.S., Username: Nwsprofile
+Timestamp: 2024-08-07 12:34:33.834364, User ID: 1201046176, Name: S A, Username: serezra
+Timestamp: 2024-08-07 12:39:09.477838, User ID: 1201046176, Name: S A, Username: serezra
+Timestamp: 2024-08-07 14:09:31.405833, User ID: 5683946976, Name: Mirco, Username: None
+Timestamp: 2024-08-28 12:08:12.924889, User ID: 1201046176, Name: N.W.S., Username: serezra
